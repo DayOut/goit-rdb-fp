@@ -64,7 +64,7 @@ WHERE Entity IS NOT NULL;
 ```
 ![](./img/p2_3.png)
 
-### asd
+### Заповнюємо таблицю `infectious`
 ```
 INSERT INTO infectious (
     country_id,
